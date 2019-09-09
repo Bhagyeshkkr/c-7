@@ -1,0 +1,7 @@
+C:\Users\bhagyeshc\source\repos\Csharp7\Csharp7\obj\Debug\Csharp7.csprojAssemblyReference.cache
+C:\Users\bhagyeshc\source\repos\Csharp7\Csharp7\obj\Debug\Csharp7.csproj.CoreCompileInputs.cache
+C:\Users\bhagyeshc\source\repos\Csharp7\Csharp7\bin\Debug\Csharp7.exe.config
+C:\Users\bhagyeshc\source\repos\Csharp7\Csharp7\bin\Debug\Csharp7.exe
+C:\Users\bhagyeshc\source\repos\Csharp7\Csharp7\bin\Debug\Csharp7.pdb
+C:\Users\bhagyeshc\source\repos\Csharp7\Csharp7\obj\Debug\Csharp7.exe
+C:\Users\bhagyeshc\source\repos\Csharp7\Csharp7\obj\Debug\Csharp7.pdb
